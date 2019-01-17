@@ -5,9 +5,6 @@ dependencies:
   - gdal>=2.3.0
   - libgdal>=2.3.0
   - ipykernel
-  - pip:
-    - nbsphinx
-  - matplotlib
   - fiona
   - scipy
   - pandas
