@@ -1,5 +1,5 @@
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/profLewis/Wooster_fire_practical/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/profLewis/Wooster_fire_practical/master?filepath=docs%2FFireEmissionsPractical.ipynb)
 
 Introduction
 ============
