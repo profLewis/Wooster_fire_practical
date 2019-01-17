@@ -1,0 +1,20 @@
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - jupyter
+  - pyephem
+  - gdal>=2.3.0
+  - libgdal>=2.3.0
+  - osgeo
+  - sphinx>=1.6
+  - pandoc
+  - nbconvert!=5.4
+  - ipykernel
+  - pip:
+    - nbsphinx
+  - matplotlib
+  - fiona
+  - scipy
+  - pandas
+  - numpy
