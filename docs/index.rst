@@ -9,7 +9,7 @@ Welcome to GEOG0133 Fire in the Earth System's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   Fire Emissions Practical <FireEmissionsPractical.ipynb>
 
 
 Indices and tables
