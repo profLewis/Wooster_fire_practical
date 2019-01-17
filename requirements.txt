@@ -1,9 +1,9 @@
 ipykernel
 nbsphinx
-pandas
-numpy
-gdal
+gdal=2.3
 matplotlib
 osgeo 
 fiona
 scipy
+pandas
+numpy
