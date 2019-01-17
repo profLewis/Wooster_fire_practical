@@ -42,15 +42,4 @@ By the end of this practical you should:
     (FIRMS;
     [[http://maps.geog.umd.edu/firms/]).](http://maps.geog.umd.edu/firms/))
 
--   Be able to access and interrogate the ATSR World Fire Atlas
-    ([[http://wfaa-dat.esrin.esa.int/]{.underline})](http://wfaa-dat.esrin.esa.int/))
-    to view long-term nighttime active fire data collected by the ATSR
-    series of sensors.
 
-References:
-===========
-
-> Boschetti, Luigi, Roy, David, Barbosa, Paulo, Boca, Roberto and
-> Justice, Chris (2008) A MODIS assessment of the summer 2007 extent
-> burned in Greece, *International Journal of Remote Sensing*, 29, 2433
-> -- 2436.
