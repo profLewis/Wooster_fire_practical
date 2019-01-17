@@ -1,7 +1,2 @@
 ipykernel
 nbsphinx
-matplotlib
-fiona
-scipy
-pandas
-numpy
