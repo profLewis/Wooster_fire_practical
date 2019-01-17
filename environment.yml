@@ -8,3 +8,4 @@ dependencies:
   - fiona
   - scipy
   - pandas
+  - xlrd
