@@ -1,7 +1,6 @@
 ipykernel
 nbsphinx
 matplotlib
-osgeo 
 fiona
 scipy
 pandas
