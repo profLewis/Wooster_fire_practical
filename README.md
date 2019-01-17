@@ -1,6 +1,5 @@
 
-> **Introduction to Remotely Sensed Fire Datasets and the IPCC
-> Greenhouse Gas Inventory Process**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/profLewis/Wooster_fire_practical/blob/master/docs/FireEmissionsPractical.ipynb/master)
 
 Introduction
 ============
