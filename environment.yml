@@ -6,7 +6,6 @@ dependencies:
   - pyephem
   - gdal>=2.3.0
   - libgdal>=2.3.0
-  - osgeo
   - sphinx>=1.6
   - pandoc
   - nbconvert!=5.4
