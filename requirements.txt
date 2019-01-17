@@ -1,2 +1,9 @@
 ipykernel
 nbsphinx
+pandas
+numpy
+gdal
+matplotlib
+osgeo 
+fiona
+scipy
