@@ -2,7 +2,9 @@
     
 <img src="https://www.nceo.ac.uk/wp-content/themes/nceo/assets/images/logos/img_logo_purple.svg" align="right" /></p>
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/profLewis/Wooster_fire_practical/master?filepath=docs%2FFireEmissionsPractical.ipynb)
+
+
+<p>[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/profLewis/Wooster_fire_practical/master?filepath=docs%2FFireEmissionsPractical.ipynb)</p>
 
 Introduction
 ============
