@@ -1,3 +1,5 @@
+name: geog0133_env
+
 channels:
   - conda-forge
 dependencies:
@@ -12,3 +14,10 @@ dependencies:
   - xlrd
   - nbconvert
   - git-lfs
+  - jupyter
+  - pyephem
+  - numpy
+  - ipywidgets
+  - requests
+  - nbpresent
+  - jupyter_contrib_nbextensions
