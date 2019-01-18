@@ -9,11 +9,11 @@
 Introduction
 ============
 
-> The purpose of this exercise is to provide you with some 
-> practical experience of the sort of products that are obtained on
-> vegetation fires and biomass burning from Earth orbiting satellites,
-> and an overview of how these fit into the IPCC Greenhouse Gas (GHG)
-> Inventory Process. 
+The purpose of this exercise is to provide you with some 
+practical experience of the sort of products that are obtained on
+vegetation fires and biomass burning from Earth orbiting satellites,
+and an overview of how these fit into the IPCC Greenhouse Gas (GHG)
+Inventory Process. 
 
 
 Learning outcomes
